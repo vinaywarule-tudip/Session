@@ -8,3 +8,5 @@
 #You are understanding the GIT
 
 #Branches example
+
+#Branches merge example
